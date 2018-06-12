@@ -1,0 +1,21 @@
+{
+  "name": "ava-robot-control",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "geekbleek",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "html5-websocket": "^2.0.3",
+    "mqtt": "^2.18.0",
+    "reconnecting-websocket": "^4.0.0-rc5",
+    "socket.io": "^2.1.1",
+    "sockette": "^2.0.0",
+    "websocket": "^1.0.26",
+    "ws": "^5.2.0"
+  }
+}
